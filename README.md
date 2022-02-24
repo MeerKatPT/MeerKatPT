@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeerKatPT and I am currently starting my DEVelopment journey.
 - 👀 I’m interested in becoming a solid web developer.
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
